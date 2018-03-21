@@ -66,3 +66,8 @@ PicoP_TestPatternInfoE pattern = PicoP_TestPatternInfoE.eCHECKER_BOARD_PATTERN;
 # Compatibility:
 - USB OTG enabled devices running Android 7.1+
 - Firefly-RK3399 board running Android 7.1.1
+
+
+# Sample App Screenshots
+
+![USB Prompt](AndroidProjectorSDK/screenshots/usb_prompt.png)
