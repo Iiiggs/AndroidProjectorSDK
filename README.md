@@ -70,4 +70,4 @@ PicoP_TestPatternInfoE pattern = PicoP_TestPatternInfoE.eCHECKER_BOARD_PATTERN;
 
 # Sample App Screenshots
 
-![USB Prompt](AndroidProjectorSDK/screenshots/usb_prompt.png)
+![USB Prompt](https://raw.githubusercontent.com/Iiiggs/AndroidProjectorSDK/master/screenshots/usb_prompt.png)
